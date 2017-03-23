@@ -1,0 +1,19 @@
+{
+  "name": "ship-js",
+  "version": "1.3.0",
+  "description": "SHIP js Lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revinate/ship-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revinate/ship-js/issues"
+  },
+  "homepage": "https://github.com/revinate/ship-js#readme"
+}
